@@ -13,3 +13,5 @@ Where:
 - ``` false ``` -> bool for printing encoded EAN code.
 # Author
 (C) 2025 Brajesh Kumar
+
+Last updated: 2026-10-13 15:58 UTC
